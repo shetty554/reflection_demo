@@ -6,7 +6,7 @@ This project demonstrates different approaches to reflection in C++ using:
 
 ## Prerequisites
 
-- C++ compiler with C++17 support
+- C++ compiler with C++20 support
 - CMake 3.25 or higher
 - Boost library
 
